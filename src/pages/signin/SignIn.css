@@ -1,0 +1,33 @@
+.auth {
+  max-width: 300px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+.auth .form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.auth .form label {
+  margin-bottom: 3px;
+}
+.auth .form input {
+  padding: 8px;
+  width: 100%;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  border: 1px solid #a5a5a5;
+}
+.auth .form button {
+  padding: 8px 15px;
+  border: none;
+  background: #0881ca;
+  color: #fff;
+  border-radius: 3px;
+}
+.auth .form button:hover {
+  cursor: pointer;
+  background: #229feb;
+}
+
+/*# sourceMappingURL=SignIn.css.map */
